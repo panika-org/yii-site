@@ -1,34 +1,6 @@
-xn--80aaxink.xn--c1avg 37.9.113.208 - - [26/Aug/2018:00:28:27 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 6048 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.69 - - [26/Aug/2018:01:35:41 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 6585 3333:3333
-xn--80aaxink.xn--c1avg 5.255.253.26 - - [26/Aug/2018:02:32:30 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 6044 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.188 - - [26/Aug/2018:03:33:02 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5812 3333:0
-xn--80aaxink.xn--c1avg 141.8.142.78 - - [26/Aug/2018:04:33:59 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5688 3333:0
-xn--80aaxink.xn--c1avg 141.8.142.213 - - [26/Aug/2018:04:45:30 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5704 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.205 - - [26/Aug/2018:05:04:21 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5939 3333:0
-xn--80aaxink.xn--c1avg 87.250.224.104 - - [26/Aug/2018:06:22:10 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5843 3333:0
-xn--80aaxink.xn--c1avg 37.9.118.29 - - [26/Aug/2018:07:04:18 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots)" 5607 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.208 - - [26/Aug/2018:07:09:45 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5573 3333:0
-www.xn--80aaxink.xn--c1avg 141.8.142.78 - - [26/Aug/2018:07:09:45 +0300] "GET /robots.txt HTTP/1.1" 301 326 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5592 3333:0
-xn--80aaxink.xn--c1avg 87.250.224.114 - - [26/Aug/2018:07:09:49 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5740 3333:0
-www.xn--80aaxink.xn--c1avg 141.8.142.59 - - [26/Aug/2018:07:09:49 +0300] "GET / HTTP/1.1" 301 316 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5761 3333:0
-xn--80aaxink.xn--c1avg 95.108.181.90 - - [26/Aug/2018:07:32:18 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5594 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.176 - - [26/Aug/2018:08:52:55 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5802 3333:0
-xn--80aaxink.xn--c1avg 95.163.255.109 - - [26/Aug/2018:09:29:40 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)" 5712 3333:0
-xn--80aaxink.xn--c1avg 178.154.171.8 - - [26/Aug/2018:09:31:30 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5600 3333:0
-xn--80aaxink.xn--c1avg 46.173.185.201 - - [26/Aug/2018:09:43:32 +0300] "GET / HTTP/1.1" 301 312 "http://www.yandex.ru/clck/jsredir?from=yandex.ru;suggest;browser&text=" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.103 YaBrowser/18.7.0.2695 Yowser/2.5 Safari/537.36" 5643 3333:0
-xn--80aaxink.xn--c1avg 95.163.255.117 - - [26/Aug/2018:09:53:04 +0300] "GET /component/booking/%D0%BE%D0%B1%D1%8A%D0%B5%D0%BA%D1%82/4-patologoanatom.html HTTP/1.1" 301 388 "-" "Mozilla/5.0 (compatible; Linux x86_64; Mail.RU_Bot/2.0; +http://go.mail.ru/help/robots)" 6107 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.88 - - [26/Aug/2018:10:51:09 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 6850 3333:3333
-xn--80aaxink.xn--c1avg 141.8.132.31 - - [26/Aug/2018:11:24:30 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5568 3333:0
-xn--80aaxink.xn--c1avg 180.76.15.147 - - [26/Aug/2018:11:29:30 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" 5543 3333:0
-xn--80aaxink.xn--c1avg 180.76.15.137 - - [26/Aug/2018:11:29:30 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" 995 0:3333
-xn--80aaxink.xn--c1avg 95.108.181.123 - - [26/Aug/2018:12:43:01 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 8998 3333:3333
-xn--80aaxink.xn--c1avg 141.8.142.59 - - [26/Aug/2018:13:14:26 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5489 3333:0
-www.xn--80aaxink.xn--c1avg 46.173.3.118 - - [26/Aug/2018:13:22:41 +0300] "GET / HTTP/1.1" 301 316 "-" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.103 YaBrowser/18.7.0.2695 Yowser/2.5 Safari/537.36" 5804 3333:0
-xn--80aaxink.xn--c1avg 37.9.113.206 - - [26/Aug/2018:14:15:06 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 7246 6666:0
-xn--80aaxink.xn--c1avg 141.8.142.213 - - [26/Aug/2018:14:39:30 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexBot/3.0; +http://yandex.com/bots)" 5674 3333:0
-xn--80aaxink.xn--c1avg 5.45.207.67 - - [26/Aug/2018:15:07:35 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5795 3333:0
-xn--80aaxink.xn--c1avg 95.153.128.197 - - [26/Aug/2018:15:50:24 +0300] "GET / HTTP/1.1" 301 312 "https://www.google.ru/" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1" 5673 3333:0
-xn--80aaxink.xn--c1avg 141.8.142.59 - - [26/Aug/2018:16:25:46 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5739 3333:0
-xn--80aaxink.xn--c1avg 5.45.207.67 - - [26/Aug/2018:17:20:21 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5589 3333:0
-xn--80aaxink.xn--c1avg 95.153.135.53 - - [26/Aug/2018:17:53:46 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1" 5615 3333:0
-xn--80aaxink.xn--c1avg 95.108.213.23 - - [26/Aug/2018:18:35:03 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 5665 3333:0
+www.xn--80aaxink.xn--c1avg 180.76.15.153 - - [03/Oct/2018:00:14:35 +0300] "GET / HTTP/1.1" 301 316 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 5547 3333:0
+xn--80aaxink.xn--c1avg 180.76.15.148 - - [03/Oct/2018:00:14:37 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" 5851 3333:0
+xn--80aaxink.xn--c1avg 180.76.15.135 - - [03/Oct/2018:00:14:37 +0300] "GET /robots.txt HTTP/1.1" 301 322 "-" "Mozilla/5.0 (Windows NT 5.1; rv:6.0.2) Gecko/20100101 Firefox/6.0.2" 5438 3333:0
+xn--80aaxink.xn--c1avg 134.175.169.225 - - [03/Oct/2018:00:36:50 +0300] "GET /status?full HTTP/1.1" 301 323 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0" 5507 3333:0
+xn--80aaxink.xn--c1avg 134.175.169.225 - - [03/Oct/2018:00:37:01 +0300] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 340 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0" 6691 6666:0
+www.xn--80aaxink.xn--c1avg 5.254.65.225 - - [03/Oct/2018:00:38:43 +0300] "GET / HTTP/1.1" 301 316 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 YaBrowser/18.9.0.3467 Yowser/2.5 Safari/537.36" 5282 3333:0
