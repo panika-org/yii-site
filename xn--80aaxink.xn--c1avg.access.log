@@ -4,3 +4,6 @@ xn--80aaxink.xn--c1avg 180.76.15.135 - - [03/Oct/2018:00:14:37 +0300] "GET /robo
 xn--80aaxink.xn--c1avg 134.175.169.225 - - [03/Oct/2018:00:36:50 +0300] "GET /status?full HTTP/1.1" 301 323 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0" 5507 3333:0
 xn--80aaxink.xn--c1avg 134.175.169.225 - - [03/Oct/2018:00:37:01 +0300] "GET /phpMyAdmin/scripts/setup.php HTTP/1.1" 301 340 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:57.0) Gecko/20100101 Firefox/57.0" 6691 6666:0
 www.xn--80aaxink.xn--c1avg 5.254.65.225 - - [03/Oct/2018:00:38:43 +0300] "GET / HTTP/1.1" 301 316 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 YaBrowser/18.9.0.3467 Yowser/2.5 Safari/537.36" 5282 3333:0
+xn--80aaxink.xn--c1avg 180.76.15.10 - - [03/Oct/2018:00:47:55 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; Baiduspider/2.0; +http://www.baidu.com/search/spider.html)" 5529 3333:0
+xn--80aaxink.xn--c1avg 141.8.142.33 - - [03/Oct/2018:00:48:50 +0300] "GET / HTTP/1.1" 301 312 "-" "Mozilla/5.0 (compatible; YandexMetrika/2.0; +http://yandex.com/bots yabs01)" 7034 6666:0
+www.xn--80aaxink.xn--c1avg 39.104.158.200 - - [03/Oct/2018:00:56:12 +0300] "GET /wp-updats.php HTTP/1.1" 301 329 "-" "-" 5528 3333:0
